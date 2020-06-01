@@ -5,7 +5,7 @@
 </p>
 
 
-Substrate is a next-generation framework for blockchain innovation 🚀.
+Substrate is a next-generation framework for blockchain innovation 🚀. This is fork for my personal dev experiment.
 
 ## Trying it out
 
